@@ -1,0 +1,6 @@
+[submodule "CSS"]
+	path = CSS
+	url = https://github.com/Elvis-cpp/CSS.git
+[submodule "codeblocks"]
+	path = codeblocks
+	url = https://github.com/Elvis-cpp/codeblocks.git
